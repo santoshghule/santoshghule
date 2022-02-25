@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @santoshghule
 - 👀 I’m interested in Learnig New Skill And Learning
-- 🌱 I’m currently learning Full Stack . net Developmen
+- 🌱 I’m currently learning Full Stack . net Development.....
 - 📫 How to reach me santoshghuleblog@gmail.com
 
 <!---
